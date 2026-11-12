@@ -1,0 +1,6 @@
+{
+  "name": "Aplikasi Pemberitahuan Keuangan Kepada Orang Tua - Multi Sekolah",
+  "description": "Aplikasi manajemen tagihan, kuitansi, rekap keuangan, dan pengiriman notifikasi tagihan/tunggakan WhatsApp otomatis kepada orang tua untuk multi-sekolah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
